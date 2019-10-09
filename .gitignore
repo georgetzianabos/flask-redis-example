@@ -4,3 +4,4 @@ redis-stable
 redis-stable.tar.gz
 __pycache__
 dump.rdb
+*.pyc
